@@ -1,0 +1,7 @@
+body{
+    padding: 2% 10% ;
+    height:90vh;
+    width: auto;
+    background-image: url(../images/F1CarBackground.jpeg);
+    background-size: cover;
+}
